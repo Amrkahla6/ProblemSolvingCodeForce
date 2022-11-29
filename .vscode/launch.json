@@ -1,0 +1,31 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Bear_and_Big_Brother",
+      "request": "launch",
+      "mainClass": "Bear_and_Big_Brother",
+      "projectName": "ProblemSolving_80f2b7fc"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/media/amr/C2DCB4C4DCB4B3CF/C C++/ProblemSolving",
+      "program": "/media/amr/C2DCB4C4DCB4B3CF/C C++/ProblemSolving/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
