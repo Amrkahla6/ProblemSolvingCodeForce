@@ -32,7 +32,5 @@ for(int i=0;i<4;i++){
 }
 cout<<4-continer<<endl;
  
- 
-//system("pause");
 return 0;
 }
